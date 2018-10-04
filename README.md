@@ -23,4 +23,4 @@ Based on provided sample of read times, statistical tests were conducted indicat
 - Jupyter Notebook
 
 ## Details
-[XXXXXX](blank) notebook
+[Analyzing the Stroop Effect](https://github.com/ksatola/Stroop-Effect/blob/master/Stroop_Effect.ipynb) notebook
